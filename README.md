@@ -4,9 +4,9 @@ secondhand-book markets on the campus
 
 1.小组成员（按字母顺序）
 ==========================
-陈立千---CharlesianMotion
-姜冉-----Jericaran
-姜鑫宇---withjiang
-庞蕴名---bigbeats
-徐道诚---xdc0527
-==========================
+* CLQ---CharlesianMotion
+* JR-----Jericaran
+* JXY---withjiang
+* PYM---bigbeats
+* XDC---xdc0527
+* ==========================
